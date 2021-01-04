@@ -47,7 +47,7 @@
 		<br>
 		<p id="center">Lehte viimati uuendati: <?php echo $lastmodifieddatetime ?> </p>
 		
-		<img src="..img\vp_banner.png" alt="Banner Veebiprogrammeerimine">
+		<img src="..\img\vp_banner.png" alt="Banner Veebiprogrammeerimine">
 	</div>
 
 </body>
